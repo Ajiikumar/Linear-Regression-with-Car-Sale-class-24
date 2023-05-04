@@ -1,1 +1,1 @@
-# Linear-Regression-with-Car-Sale-class-24
+# Linear-Regression-with-Car-Sale
